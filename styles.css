@@ -154,9 +154,10 @@
     font-family: 'Raleway', sans-serif;
     width: 12rem;
     color: #61ddd6;
-    margin: 2rem 0;
+    margin: 1rem 0;
     padding-bottom: 0.3rem;
     border-bottom: 0.1rem solid #61ddd6;
+    margin-bottom: 10rem;
 }
 
 .fylo:hover{
