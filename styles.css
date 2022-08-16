@@ -479,6 +479,8 @@
     }
 
     .form{
+        margin: auto;
+        width: 80%;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -487,7 +489,7 @@
     .input{
         padding: 1.1rem 1rem;
         width: 25rem;
-        margin: 2rem 0 2rem 3rem;
+        margin: 2rem 1rem 2rem 3rem;
     }
 
     .footer{
